@@ -6,3 +6,4 @@ title: Sandro's Personal Blog
 tagline: A log of everyday life
 description: Random things I consider worth sharing
 paginate: 5
+gems: [jekyll-paginate]
