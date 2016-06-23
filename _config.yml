@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://sandrobraendli.github.io
 title: Sandro's Personal Blog
 tagline: A log of everyday life
-description: My awesome new site
+description: Random things I consider worth sharing
 paginate: 5
